@@ -30,7 +30,7 @@ This dashboard helps users:
 
 ## 📷 Dashboard Preview
 <p align= "center">
-  <img src="images/dashboard.png" width="900">
+  <img src="./Downloads/dashboard.png" width="900">
 </p>
 ---
 
