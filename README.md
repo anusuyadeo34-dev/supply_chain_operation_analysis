@@ -1,4 +1,4 @@
-<img width="1897" height="906" alt="Screenshot 2026-06-01 234029" src="https://github.com/user-attachments/assets/67e0f7b3-0f5f-4ee2-8249-7355af5ea491" /><h1> 🚚 Supply Chain & Profitability Analysis Dashboard </h1>
+<h1> 🚚 Supply Chain & Profitability Analysis Dashboard </h1>
 <h2> 👨‍💻 Developed By </h2>
     <h3> Aswasana </h3> 
 <br>
