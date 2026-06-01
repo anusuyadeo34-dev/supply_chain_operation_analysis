@@ -27,11 +27,7 @@ This dashboard helps users:
 - Product Category Profitability
 - Regional Profit Analysis
 - Insights Heatmap Analysis
-
-## 📷 Dashboard Preview
-<p align= "center">
-  <img src="./Downloads/dashboard.png" width="900">
-</p>
+  
 ---
 
 # 📊 Key Functionalities
