@@ -1,6 +1,6 @@
 <h1> 🚚 Supply Chain & Profitability Analysis Dashboard </h1>
 <h2> 👨‍💻 Developed By </h2>
-    <h3> Aswasana </h3> 
+    <h3> Anusuya </h3> 
 <br>
 
 ## 📌 Project Overview
