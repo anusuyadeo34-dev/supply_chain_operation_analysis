@@ -29,9 +29,6 @@ This dashboard helps users:
 - Insights Heatmap Analysis
   
 ---
-
-# 👀 Dashboard View
- Click Here: https://supplychainoperationanalysis.streamlit.app/
  
 ---
 
